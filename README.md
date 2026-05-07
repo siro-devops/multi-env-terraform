@@ -52,7 +52,7 @@ terraform apply -auto-approve
 
 ## Evidence
 
-![S3 Remote State](screenshots/s3-state-files.png)
+![S3 Remote State](screenshotss3-state-files.png)
 
 ## Stack
 
